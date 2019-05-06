@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Антон Вихляев](https://up.htmlacademy.ru/htmlcss/25/user/69075).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Иовлев](https://htmlacademy.ru/profile/skywalker).
 
 ---
 
